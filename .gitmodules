@@ -1,3 +1,6 @@
 [submodule "Distributed-Ordering-System-Implementation-Using-gRPC"]
 	path = Distributed-Ordering-System-Implementation-Using-gRPC
 	url = git@github.com:avamirm/Distributed-Ordering-System-Implementation-Using-gRPC.git
+[submodule "Concurrent-Ticket-Reservation-System"]
+	path = Concurrent-Ticket-Reservation-System
+	url = git@github.com:avamirm/Concurrent-Ticket-Reservation-System.git
