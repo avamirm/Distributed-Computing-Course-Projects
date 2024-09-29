@@ -1,0 +1,3 @@
+[submodule "Distributed-Ordering-System-Implementation-Using-gRPC"]
+	path = Distributed-Ordering-System-Implementation-Using-gRPC
+	url = git@github.com:avamirm/Distributed-Ordering-System-Implementation-Using-gRPC.git
